@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #303030;
+    color: white;
+    font-family: 'Segoe UI', sans-serif;
+}
+a{
+    font-size: 50px;
+    color: rgb(255, 165, 0);
+    text-decoration: none;
+}
+a:hover{
+    color: rgb(155, 101, 0);
+
+}
+h1{
+    font-size: 60px;
+}
