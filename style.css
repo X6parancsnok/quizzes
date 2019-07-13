@@ -5,6 +5,8 @@
 body{
     background-color: #303030;
     color: white;
+    margin-left: 20px;
+    font-family: 'Quicksand', sans-serif;
 }
 a{
     font-size: 50px;
@@ -17,4 +19,7 @@ a:hover{
 }
 h1{
     font-size: 60px;
+}
+#quizzes{
+    margin-left: 20px;
 }

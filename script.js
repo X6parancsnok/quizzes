@@ -23,7 +23,7 @@ function showQuizzes(quizzes, quizContainer){
 
         // add this question and its answers to the output
         output.push(
-            '<a href="https://x6parancsnok.github.io/' + quizzes[i].link + 'quiz">' + quizzes[i].name + '</a> </br>' 
+            '<a href="https://x6parancsnok.github.io/' + quizzes[i].link + 'quiz">• ' + quizzes[i].name + '</a> </br>' 
         );
     }
     // finally combine our output list into one string of html and put it on the page
